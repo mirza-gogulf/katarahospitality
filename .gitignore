@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!/wp-content/themes/katara1.0/
+!/wp-content/plugins/
+# etc...
+
+# ...even if they are in subdirectories
+!*/
