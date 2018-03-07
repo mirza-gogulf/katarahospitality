@@ -1,0 +1,1 @@
+<?php _e( 'No Results Found', 'katara' ); ?>

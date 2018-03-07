@@ -1,0 +1,166 @@
+.contact-form-holder {
+    display: inline-block;
+    width: 100%;
+}
+
+.b-management-detail .b-management-detail-left .text-holder{
+		max-height: 132px;
+		overflow: hidden;
+	}
+
+.b-management-detail .text-holder.full-text {
+    max-height: 100%;
+}
+
+.navbar-light .navbar-nav .current-page-ancestor > .nav-link {
+    color: #676767;
+}
+
+.navbar-light .navbar-nav .current-menu-item > .nav-link {
+    color: #676767;
+}
+
+.we-are h3 {
+	margin: 0 0 10px;
+}
+
+.k-section-about .text-holder p {
+    margin-bottom: 20px;
+}
+
+.news-sort {
+    margin-bottom: 35px;
+}
+
+.k-section-career .title-holder .title-info, .k-section-contact .title-holder .title-info {
+	margin-bottom: 35px;
+}
+
+.msg-success {  
+    border: 2px solid green;
+    padding: 5px 0px 1px 10px;
+}
+
+.clickable-link, .footer-top .foo-list .tel a {
+    color: #a28830 !important;
+    pointer-events: inherit !important;
+}
+
+.clickable-link:hover, .footer-top .foo-list .tel a:hover {
+    color: #9d9d9d !important;
+}
+
+.gform_wrapper li.gfield_error input[type=file], .gform_wrapper li.gfield_error select {
+    border: 1px solid red !important;
+}
+
+.gform_wrapper li.gfield.gfield_error {
+    background-color: transparent !important;
+}
+
+.detail-loader-wrap {
+    text-align: center;
+    width: 100%;
+    margin-top: 60px;
+}
+
+.k-section-news-detail .btn-holder .btn {
+    min-width: 120px;
+    margin-right: 10px;
+}
+
+.k-section-career-detail .btn-holder.nav-buttons {
+    margin-top: 15px;
+}
+.front-map .gm-style .gm-style-iw {
+    /*width: 60px !important;*/
+    text-align: left;
+}
+
+.press-login-form h2{
+font-size: 1.0625rem;
+}
+.press-login-form p {
+    font-size: .8125rem;
+    text-transform: none !important;
+    line-height: 17px;
+    margin: 10px 0px;
+}
+.press-login-form a.req-access {
+    font-size: .8125rem;
+    text-decoration: underline;
+}
+.login-errors span, .register-errors span {
+    color: red;
+    font-size: 0.7125rem;
+    line-height: 1.5px;
+}
+.btn-login{
+    color: #a28830;
+}
+
+.btn-login:hover {
+    background: #a28830;
+    color: #fff;
+}
+input.wpcf7-not-valid, textarea.wpcf7-not-valid {
+    border: 1px solid red;
+}
+@media only screen and (max-width: 991px){
+    .left-sidebar .sidemenu {
+        height: auto;
+    }
+}
+li.logged-info {
+font-size: 12px;
+line-height: 18px;
+}
+
+.k-section-about .title-info {
+    display: block;
+    color: #3f3f3f;
+    font-size: 17px;
+    font-size: 1.0625rem;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-family: HelveticaNeue400;
+    padding-bottom: 30px;
+}
+.not-found {
+    padding: 8% 0 6%;
+    text-align: center;
+}
+
+.rtl .contact-address-holder .phone-holder .fax .fax1 {
+ float: left;
+ direction: ltr;
+ width: calc(100% - 60px);
+}
+.rtl .contact-address-holder .phone-holder .tel a {
+ direction: ltr;
+ float: left;
+ width: calc(100% - 55px);
+}
+.rtl .foo-list-touch li.fax .fax1 {
+ float: left;
+ direction: ltr;
+ width: calc(100% - 60px);
+}
+.rtl .foo-list-touch li.tel a {
+ direction: ltr;
+ float: left;
+ width: calc(100% - 55px);
+}
+
+.b-management-card.active {
+    filter: grayscale(100%) blur(8px);
+}
+
+@media only screen and (min-width: 1600px)
+{
+.b-management-card {
+    max-width: auto!important;
+}
+}
+
+.page-template-template-about .has_submenu_child>a:after {display: none!important;}

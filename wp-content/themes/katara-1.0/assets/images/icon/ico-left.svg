@@ -1,0 +1,12 @@
+<svg id="ico-left" xmlns="http://www.w3.org/2000/svg" viewBox="151 100 20 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a28830;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="12" height="3" transform="translate(151 100)"/>
+  <rect id="Rectangle_1-2" data-name="Rectangle 1" class="cls-1" width="20" height="3" transform="translate(151 106)"/>
+  <rect id="Rectangle_1-3" data-name="Rectangle 1" class="cls-1" width="15" height="3" transform="translate(151 112)"/>
+</svg>

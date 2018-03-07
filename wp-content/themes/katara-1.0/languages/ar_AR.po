@@ -1,0 +1,2489 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Katara 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-26 14:48-0000\n"
+"PO-Revision-Date: 2013-09-27 13:04-0000\n"
+"Last-Translator: Alex McFarlane <alex@morphlondon.com>\n"
+"Language-Team: Lamie-Narin, morphlondon <studio@morphlondon.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:5
+msgid "404: Page not found"
+msgstr "404: الصفحة غير موجودة"
+
+#: ../404.php:6
+msgid ""
+"We're sorry, we couldn't find that page: there has been an error and the "
+"page you were looking for seems to be missing."
+msgstr ""
+"عذراً، لم نعثر على الصفحة المطلوبة: هناك خلل ما، ويبدو أن الصفحة التي تبحثون "
+"عنها مفقودة. "
+
+#: ../404.php:10
+msgid ""
+"If you typed in the address, please double-check your spelling as it could "
+"just be a typo."
+msgstr ""
+"إذا كتبت عنوان الصفحة، يرجى التحقق إملائياً من صحة العنوان، ربما ارتكبت خطأ "
+"طباعياً فيه."
+
+#: ../404.php:11
+msgid "If you followed a link, it's likely to be broken. Please"
+msgstr "إذا وصلت إلى هنا عبر النقر على وصلة، فالوصلة مكسورة. الرجاء"
+
+#: ../404.php:11
+msgid "contact us"
+msgstr "اتصلوا بنا"
+
+#: ../404.php:11
+msgid "and we'll fix it as soon as possible."
+msgstr "وسنعمل على إصلاحها في أقرب وقت ممكن."
+
+#: ../404.php:12
+msgid "If you're not sure what you're looking for, please start from our"
+msgstr "إن لم تكن متأكداً مما تبحث عنه، يرجى البدء من"
+
+#: ../404.php:12
+msgid "homepage"
+msgstr "الصفحة الرئيسية"
+
+#: ../archive-career-opportunities.php:8 ../header.php:190
+#: ../sidebar-careers-search.php:13
+msgid "Search"
+msgstr "البحث"
+
+#: ../archive-career-opportunities.php:71 ../archive.php:96 ../archive.php:112
+msgid "We are constantly developing talent"
+msgstr "نحن نطوّر المواهب باستمرار"
+
+#: ../archive-career-opportunities.php:72
+msgid ""
+"Katara Hospitality takes great pride in the high quality of its people. They "
+"are, after all, the backbone of our operation and without constantly "
+"striving for impeccably high standards we wouldn't have such an enviable "
+"reputation. To further this aim we have a rigorous program of talent "
+"development in place. If you have the energy and ambition to work for one of "
+"the region's premier organisations, and in doing so further develop your "
+"talent, please send your r&#233;sum&#233; with a covering letter to the "
+"address below."
+msgstr ""
+"تشعر كتارا للضيافة بعظيم الفخر والاعتزاز بالسويّة العالية لكوادرها وموظفيها. "
+"فهم، بعد كل شيء، العمود الفقري لعملياتنا، ولن نحظى بمثل هذا السمعة العطرة "
+"التي نحسد عليها من دون المواظبة على الارتقاء إلى معايير عالية لم يسبقنا "
+"إليها أحد. وللمضي قدماً نحو هذا الهدف، نتّبع برنامجاً صارماً لتنمية المواهب. "
+"فإذا كان لديك الطاقة والطموح للعمل في واحدة من الشركات الرائدة الأولى في "
+"المنطقة، وبالتالي لتطوير موهبتك، الرجاء إرسال سيرتك الذاتية مرفقة برسالة "
+"توضيحية على العنوان المبيّن أدناه."
+
+#: ../archive-career-opportunities.php:91 ../archive-press-area.php:100
+#: ../archive.php:155 ../index.php:41 ../page-our-hotels.php:73
+#: ../page-our-hotels.php:126 ../search.php:66
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"عذرأ، لم نعثر على نتائج في الأرشيف المطلوب. قد يساعدك البحث في العثور على "
+"معلومات ذات صلة."
+
+#: ../archive-press-area.php:46 ../single-press-area.php:41
+msgid "Brand Assets"
+msgstr "   عناصر العلامة التجارية "
+
+#: ../archive-press-area.php:76 ../single-press-area.php:71
+msgid "download"
+msgstr "تحميل"
+
+#: ../archive-press-area.php:105 ../single-press-area.php:93
+msgid "You need to be registered to view brand assets."
+msgstr "يجب التسجيل للاطلاع على المناقصات"
+
+#: ../archive-press-area.php:107 ../footer.php:86 ../header.php:125
+#: ../page-login-modal.php:91 ../sidebar-press-area-meta.php:13
+#: ../sidebar.php:50 ../sidebar.php:198 ../single-press-area.php:95
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+#: ../archive-press-area.php:108 ../page-login-modal.php:72
+#: ../page-request-press-office.php:74 ../sidebar-press-area-meta.php:18
+#: ../sidebar.php:55 ../sidebar.php:203 ../single-press-area.php:96
+#: ../includes/admin/request-access/request-access-add.php:15
+msgid "Request access"
+msgstr "طلب حق النفاذ"
+
+#: ../archive.php:11
+msgid "Daily Archives"
+msgstr "الأرشيف اليومي:"
+
+#: ../archive.php:29
+msgid "Tenders - Monthly Archives"
+msgstr "المناقصات - الأرشيف الشهري:"
+
+#: ../archive.php:44
+msgid "Latest News - Monthly Archives"
+msgstr "آخر الأخبار - الأرشيف الشهري:"
+
+#: ../archive.php:60
+msgid "Monthly Archives:"
+msgstr "الأرشيف الشهري:"
+
+#: ../archive.php:64
+msgid "Yearly Archives"
+msgstr "الأرشيف السنوي:"
+
+#: ../archive.php:71 ../sidebar-navi.php:26 ../sidebar-search.php:57
+msgid "Category"
+msgstr "الفئة"
+
+#: ../archive.php:75 ../page-application-form.php:279
+#: ../sidebar-careers-search.php:109 ../sidebar-search.php:76
+#: ../modules/hotel.php:91
+msgid "Location"
+msgstr "موقع"
+
+#: ../archive.php:79
+msgid "Blog Archives"
+msgstr "أرشيف المدونة"
+
+#: ../archive.php:88
+msgid "We are busy"
+msgstr "نحن مشغولون"
+
+#: ../archive.php:92
+msgid "We are the partner of choice"
+msgstr "نحن الشريك المفضل"
+
+#: ../archive.php:104
+msgid ""
+"We are carefully, but relentlessly extending our influence throughout the "
+"world of hospitality. This is what we've been up to recently."
+msgstr ""
+"بدأب وبمثابرة، نحن نعزز نفوذنا في جميع أنحاء عالم الضيافة. هذا ما فعلناه في "
+"الآونة الأخيرة."
+
+#: ../archive.php:108
+msgid ""
+"We live our corporate life to very exacting standards and only partner with "
+"companies who share similar values. That being said, we are always open to "
+"meeting new people, discussing innovative ways of working all in a bid to "
+"set standards ever higher."
+msgstr ""
+"نعيش حياتنا المؤسساتية في الشركة وفق معايير صارمة جداً، ونضع يدنا فقط بيد "
+"الشركات التي تشاركنا قيمنا. لذا فنحن مستعدون دائماً للالتقاء بأناس جدد، "
+"وللتداول بشأن الطرق المبتكرة للعمل سعياً إلى مزيد من الارتقاء بالمعايير."
+
+#: ../archive.php:120
+msgid "For press enquiries"
+msgstr "للاستفسارات الصحفية"
+
+#: ../footer.php:6
+msgid "2013 Katara Hospitality. All rights reserved."
+msgstr "كتارا للضيافة. جميع الحقوق محفوظة 2013. "
+
+#: ../footer.php:11 ../header.php:135
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: ../footer.php:15 ../header.php:143
+msgid "About Us"
+msgstr "نبذة عن كتارا للضيافة"
+
+#: ../footer.php:21 ../header.php:151 ../sidebar-search.php:25
+msgid "Our Hotels"
+msgstr "فنادقنا"
+
+#: ../footer.php:27 ../header.php:159
+msgid "Latest News"
+msgstr "آخر الأخبار"
+
+#: ../footer.php:33 ../functions.php:581 ../header.php:167
+#: ../page-contact-us.php:332 ../sidebar-search.php:41
+msgid "Tenders"
+msgstr "المناقصات"
+
+#: ../footer.php:39 ../functions.php:593 ../header.php:175
+#: ../page-contact-us.php:329 ../sidebar-search.php:49
+#: ../single-career-opportunities.php:8
+msgid "Careers"
+msgstr "وظائف"
+
+#: ../footer.php:45 ../header.php:183 ../page-contact-us.php:295
+msgid "Contact Us"
+msgstr "اتصلوا بنا"
+
+#: ../footer.php:50
+msgid "Terms and Conditions"
+msgstr "الشروط والأحكام"
+
+#: ../footer.php:54
+msgid "Privacy Policy"
+msgstr "سياسة الخصوصية"
+
+#: ../footer.php:66
+msgid "Log in"
+msgstr "تسجيل الدخول"
+
+#: ../footer.php:71 ../page-login-modal.php:78
+#: ../sidebar-press-area-meta.php:8 ../sidebar.php:45 ../sidebar.php:193
+#: ../includes/admin/request-access/request-access-add.php:121
+msgid "Username"
+msgstr "اسم المستخدم"
+
+#: ../footer.php:76 ../page-login-modal.php:83
+#: ../sidebar-press-area-meta.php:11 ../sidebar.php:48 ../sidebar.php:196
+#: ../includes/admin/request-access/request-access-add.php:133
+msgid "Password"
+msgstr "الكلمة السرية"
+
+#: ../footer.php:85 ../page-application-form.php:635
+#: ../page-login-modal.php:90 ../page-request-press-office.php:106
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: ../front-page.php:13
+msgid "We are Katara Hospitality"
+msgstr "نحن كتارا للضيافة"
+
+#: ../front-page.php:55 ../front-page.php:73 ../header.php:70
+#: ../modules/sidebar-about-us.php:34 ../modules/sidebar-li-hotel.php:36
+#: ../modules/widget-business-areas.php:27
+msgid "Read more"
+msgstr "اقرأ المزيد"
+
+#: ../front-page.php:81
+msgid "Our head office has moved"
+msgstr "لقد انتقل المقر الرئيسي للشركة "
+
+#: ../front-page.php:83 ../page-contact-us.php:367
+msgid "Katara Hospitality head office has moved to Lusail City"
+msgstr "تم نقل المقر الرئيسى لشركة كتارا للضيافة الى مدينة لوسيل"
+
+#: ../front-page.php:85
+msgid "Please click here for futher details & directions"
+msgstr "الرجاء الضغط هنا للمزيد من التفاصيل والاتجاهات"
+
+#: ../front-page.php:93 ../search.php:75
+msgid "Recent Press"
+msgstr "أحدث البيانات الصحفية"
+
+#: ../front-page.php:117 ../front-page.php:147 ../search.php:100
+#: ../sidebar.php:32 ../sidebar.php:102 ../sidebar.php:148
+#: ../modules/sidebar-about-business-area.php:29
+#: ../modules/sidebar-about-business-area.php:63
+msgid "See all"
+msgstr "عرض الكل"
+
+#: ../front-page.php:134
+msgid "Recent Tenders"
+msgstr "أحدث المناقصات"
+
+#: ../functions.php:77
+msgid "Primary Menu"
+msgstr "القائمة الأساسية"
+
+#: ../functions.php:120
+msgid "Previous"
+msgstr "السابق"
+
+#: ../functions.php:122
+msgid "Newer"
+msgstr "الأحدث"
+
+#: ../functions.php:199 ../functions.php:297 ../page-login-modal.php:49
+#: ../page-request-press-office.php:51
+msgid "All fields should be filled in."
+msgstr "يجب ملء كافة الحقول"
+
+#: ../functions.php:240 ../functions.php:333 ../functions.php:397
+msgid "The email address entered is not valid."
+msgstr "عنوان البريد الإلكتروني غير صالح"
+
+#: ../functions.php:244 ../functions.php:337 ../functions.php:401
+msgid "You have already requested access."
+msgstr " لقد طلبت حق النفاذ"
+
+#: ../functions.php:536
+msgid "Add New "
+msgstr "أضف"
+
+#: ../functions.php:537
+msgid "Edit "
+msgstr "تحرير"
+
+#: ../functions.php:538
+msgid "New "
+msgstr "جديد"
+
+#: ../functions.php:539
+msgid "All "
+msgstr "الكل"
+
+#: ../functions.php:540
+msgid "View "
+msgstr "عرض"
+
+#: ../functions.php:541
+msgid "Search "
+msgstr "البحث"
+
+#: ../functions.php:542 ../functions.php:543
+msgid "No "
+msgstr "لا "
+
+#: ../functions.php:582
+msgid "Tender"
+msgstr "مناقصة"
+
+#: ../functions.php:594
+msgid "Career Opportunity"
+msgstr "فرص مهنية"
+
+#: ../functions.php:964 ../sidebar-careers-search.php:21
+msgid "Full Time"
+msgstr "دوام كامل"
+
+#: ../functions.php:964 ../sidebar-careers-search.php:22
+msgid "Part Time"
+msgstr "دوام جزئي"
+
+#: ../functions.php:964 ../sidebar-careers-search.php:23
+msgid "Temporary"
+msgstr "مؤقت"
+
+#: ../functions.php:964 ../sidebar-careers-search.php:24
+msgid "Permanent"
+msgstr "دائم"
+
+#: ../functions.php:968
+msgid "Select Type"
+msgstr " حدد النوع"
+
+#: ../functions.php:984 ../sidebar-careers-search.php:48
+msgid "Executive"
+msgstr "تنفيذي"
+
+#: ../functions.php:984 ../sidebar-careers-search.php:49
+msgid "Manager"
+msgstr "مدير"
+
+#: ../functions.php:984 ../sidebar-careers-search.php:50
+msgid "Supervisor"
+msgstr "مشرف"
+
+#: ../functions.php:984 ../sidebar-careers-search.php:51
+msgid "Officer"
+msgstr "ضابط"
+
+#: ../functions.php:984 ../sidebar-careers-search.php:52
+msgid "Admin"
+msgstr "إداري"
+
+#: ../functions.php:988
+msgid "Select Level"
+msgstr " حدد المستوى"
+
+#: ../functions.php:1051 ../page-application-form.php:371
+#: ../sidebar-careers-search.php:112
+msgid "Egypt"
+msgstr "مصر"
+
+#: ../functions.php:1052 ../sidebar-careers-search.php:113
+msgid "Sharm El Sheikh"
+msgstr "شرم الشيخ"
+
+#: ../functions.php:1053 ../sidebar-careers-search.php:114
+msgid "Doha, Qatar"
+msgstr "الدوحة، قطر"
+
+#: ../functions.php:1054 ../sidebar-careers-search.php:115
+msgid "Mesaieed"
+msgstr "مسيعيد"
+
+#: ../functions.php:1092 ../sidebar-careers-search.php:75
+msgid "Human Resources"
+msgstr "الموارد البشرية"
+
+#: ../functions.php:1093 ../sidebar-careers-search.php:76
+msgid "Procurement"
+msgstr "المشتريات"
+
+#: ../functions.php:1094 ../sidebar-careers-search.php:77
+msgid "Information Technology"
+msgstr "تكنولوجيا المعلومات"
+
+#: ../functions.php:1095 ../sidebar-careers-search.php:78
+msgid "Business Development"
+msgstr "تطوير الأعمال"
+
+#: ../functions.php:1096 ../sidebar-careers-search.php:79
+msgid "Internal Audit"
+msgstr "التدقيق الداخلي"
+
+#: ../functions.php:1097 ../sidebar-careers-search.php:80
+msgid "Legal"
+msgstr "القانونية"
+
+#: ../functions.php:1098 ../sidebar-careers-search.php:81
+msgid "Chairman's Office"
+msgstr "مكتب رئيس مجلس الإدارة"
+
+#: ../functions.php:1099 ../sidebar-careers-search.php:82
+msgid "CEO's Office"
+msgstr "مكتب الرئيس التنفيذي"
+
+#: ../functions.php:1100 ../sidebar-careers-search.php:83
+msgid "Administration"
+msgstr "إدارة"
+
+#: ../functions.php:1101 ../sidebar-careers-search.php:84
+msgid "Finance"
+msgstr "المالية"
+
+#: ../functions.php:1102
+msgid "Operations"
+msgstr "العمليات"
+
+#: ../functions.php:1103 ../sidebar-careers-search.php:86
+msgid "IT"
+msgstr "تكنولوجيا المعلومات"
+
+#: ../functions.php:1104 ../sidebar-careers-search.php:87
+msgid "Marketing"
+msgstr "التسويق"
+
+#: ../functions.php:1105
+msgid "Project & Construction"
+msgstr "المشاريع والإنشاءات"
+
+#: ../functions.php:1106
+msgid "Various"
+msgstr "متعدد "
+
+#: ../functions.php:2081
+msgid "Please enter your user name."
+msgstr "يرجى إدخال  الإسم المستخدم"
+
+#: ../functions.php:2085 ../page-application-form.php:106
+#: ../page-contact-us.php:58
+msgid "Please enter a valid name."
+msgstr " يرجى إدخال اسم ملائم."
+
+#: ../functions.php:2090
+msgid "Please enter your password."
+msgstr "الرجاء إدخال الكلمة السرية"
+
+#: ../functions.php:2108 ../functions.php:2126
+msgid "Your login credentials are incorrect."
+msgstr "كلمة المرور غير صحيحة"
+
+#: ../header.php:26
+msgid "Page"
+msgstr "صفحة"
+
+#: ../header.php:54 ../page-application-form.php:29 ../page-login-modal.php:29
+#: ../page-request-press-office.php:29
+msgid "This field is required"
+msgstr "هذا الحقل مطلوب"
+
+#: ../header.php:55 ../page-application-form.php:30 ../page-login-modal.php:30
+#: ../page-request-press-office.php:30
+msgid "Must be a valid email address"
+msgstr "يجب أن يكون البريد الإلكتروني ملائماً"
+
+#: ../header.php:56
+msgid "Please enter an email address"
+msgstr "يرجى إدخال البريد الإلكتروني"
+
+#: ../header.php:57
+msgid "Please enter a first name"
+msgstr "يرجى إدخال الاسم"
+
+#: ../header.php:58
+msgid "Please enter a last name"
+msgstr "يرجى إدخال الإسم العائلي "
+
+#: ../header.php:59 ../page-application-form.php:120
+msgid "Please enter your nationality"
+msgstr "يرجى إدخال الجنسية"
+
+#: ../header.php:60 ../page-application-form.php:125
+msgid "Please enter a valid date of birth"
+msgstr "يرجى إدخال تاريخ ميلاد ملائم"
+
+#: ../header.php:61 ../page-application-form.php:130
+#: ../page-application-form.php:310 ../page-application-form.php:312
+msgid "Please select a country"
+msgstr "اختر الدولة"
+
+#: ../header.php:62 ../page-application-form.php:135
+msgid "Please enter a city"
+msgstr "يرجى إدخال المدينة"
+
+#: ../header.php:63 ../page-application-form.php:140
+#: ../page-application-form.php:145
+msgid "Please enter a valid contact number"
+msgstr "يرجى إدخال رقم هاتف ملائم"
+
+#: ../header.php:64 ../page-application-form.php:150
+msgid "Please select your qualifications"
+msgstr "يرجى تحديد مؤهلاتك"
+
+#: ../header.php:65 ../page-application-form.php:155
+msgid "Please select your experience"
+msgstr "يرجى اختيار خبراتك"
+
+#: ../header.php:66 ../page-application-form.php:193
+#: ../page-application-form.php:223
+msgid "There was an error uploading your file"
+msgstr "عذراً، خطأ في تحميل ملفك"
+
+#: ../header.php:67
+msgid "No such user found"
+msgstr "عذراً، هذا المستخدم غير مسجل لدينا"
+
+#: ../header.php:68
+msgid "Your password is incorrect"
+msgstr "الكلمة السرية غير صحيحة"
+
+#: ../header.php:69
+msgid "Your user password combination returned no results"
+msgstr "لم يأت اسم المستخدم مع كلمة مرورك بأية نتائج"
+
+#: ../header.php:71
+msgid "Less"
+msgstr "أقل"
+
+#: ../header.php:117 ../header.php:119 ../page-contact-us.php:362
+msgid "Katara Hospitality"
+msgstr "كتارا للضيافة"
+
+#: ../header.php:124
+msgid "Skip Navigation"
+msgstr "تجاوز التنقّل"
+
+#: ../header.php:191 ../sidebar-careers-search.php:14 ../sidebar-search.php:14
+msgid "Go"
+msgstr "ابدأ"
+
+#: ../index.php:37
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#: ../page-about-us.php:19
+msgid "We are new, yet historic"
+msgstr "نحن الحداثة.. والأصالة"
+
+#: ../page-application-form.php:102 ../page-contact-us.php:54
+msgid "Please enter your first name."
+msgstr "يرجى إدخال الاسم."
+
+#: ../page-application-form.php:111 ../page-contact-us.php:63
+msgid "Please enter your last name."
+msgstr "يرجى إدخال الكنية."
+
+#: ../page-application-form.php:115 ../page-contact-us.php:67
+msgid "Please enter a valid last name."
+msgstr " يرجى إدخال اسم عائلي ملائم."
+
+#: ../page-application-form.php:164
+msgid "Please upload a resume"
+msgstr "يرجى تحميل السيرة الذاتية"
+
+#: ../page-application-form.php:168
+msgid "Please upload a letter of intent"
+msgstr "يرجى تحميل خطاب نوايا"
+
+#: ../page-application-form.php:181 ../page-application-form.php:211
+msgid "File too large must be under 10 MB"
+msgstr "10MB الملف كبير جدا يجب أن يكون أقل من"
+
+#: ../page-application-form.php:198 ../page-application-form.php:228
+#: ../page-application-form.php:631
+msgid "File either needs to be a PDF (.pdf) or a Word document (.doc)"
+msgstr "(.doc) Word Document أو PDF (.pdf) الملف يحتاج إما أن يكون في شكل"
+
+#: ../page-application-form.php:268
+msgid "Application Form"
+msgstr "استمارة الطلب"
+
+#: ../page-application-form.php:271
+msgid "Please complete the following form to apply for this position."
+msgstr "يرجى ملء الاستمارة التالية للتقدّم إلى هذه الوظيفة"
+
+#: ../page-application-form.php:278 ../single-career-opportunities.php:37
+msgid "Reference"
+msgstr "مرجع"
+
+#: ../page-application-form.php:284 ../page-contact-us.php:307
+#: ../page-request-press-office.php:79
+msgid "First name"
+msgstr "الاسم"
+
+#: ../page-application-form.php:289 ../page-contact-us.php:311
+#: ../page-request-press-office.php:84
+msgid "Last name"
+msgstr "الكنية"
+
+#: ../page-application-form.php:294
+msgid "Nationality"
+msgstr "الجنسية"
+
+#: ../page-application-form.php:299
+msgid "Date of birth (DD MM YYYY)"
+msgstr "تاريخ الميلاد"
+
+#: ../page-application-form.php:308
+msgid "Address country"
+msgstr "العنوان - الدولة"
+
+#: ../page-application-form.php:313
+msgid "Afghanistan"
+msgstr "أفغانستان"
+
+#: ../page-application-form.php:314
+msgid "Algeria"
+msgstr "الجزائر"
+
+#: ../page-application-form.php:315
+msgid "Albania"
+msgstr "ألبانيا"
+
+#: ../page-application-form.php:316
+msgid "American Samoa"
+msgstr "ساموا-الأمريكي"
+
+#: ../page-application-form.php:317
+msgid "Andorra"
+msgstr "أندورا"
+
+#: ../page-application-form.php:318
+msgid "Angola"
+msgstr "أنغولا"
+
+#: ../page-application-form.php:319
+msgid "Anguilla"
+msgstr "أنغيلا"
+
+#: ../page-application-form.php:320
+msgid "Antarctica"
+msgstr " القارة القطبية الجنوبية"
+
+#: ../page-application-form.php:321
+msgid "Antigua and Barbuda"
+msgstr "أنتيغوا وبربودا"
+
+#: ../page-application-form.php:322
+msgid "Argentina"
+msgstr "الأرجنتين"
+
+#: ../page-application-form.php:323
+msgid "Armenia"
+msgstr "أرمينيا"
+
+#: ../page-application-form.php:324
+msgid "Aruba"
+msgstr "أروبا"
+
+#: ../page-application-form.php:325
+msgid "Australia"
+msgstr "أستراليا"
+
+#: ../page-application-form.php:326
+msgid "Austria"
+msgstr "النمسا"
+
+#: ../page-application-form.php:327
+msgid "Azerbaijan"
+msgstr "أذربيجان"
+
+#: ../page-application-form.php:328
+msgid "Bahamas"
+msgstr "الباهاماس"
+
+#: ../page-application-form.php:329
+msgid "Bahrain"
+msgstr "البحرين"
+
+#: ../page-application-form.php:330
+msgid "Bangladesh"
+msgstr "بنغلاديش"
+
+#: ../page-application-form.php:331
+msgid "Barbados"
+msgstr "بربادوس"
+
+#: ../page-application-form.php:332
+msgid "Belarus"
+msgstr "روسيا البيضاء"
+
+#: ../page-application-form.php:333
+msgid "Belgium"
+msgstr "بلجيكا"
+
+#: ../page-application-form.php:334
+msgid "Belize"
+msgstr "بيليز"
+
+#: ../page-application-form.php:335
+msgid "Benin"
+msgstr "بنين"
+
+#: ../page-application-form.php:336
+msgid "Bermuda"
+msgstr "جزر برمودا"
+
+#: ../page-application-form.php:337
+msgid "Bhutan"
+msgstr "بوتان"
+
+#: ../page-application-form.php:338
+msgid "Bolivia"
+msgstr "بوليفيا"
+
+#: ../page-application-form.php:339
+msgid "Bosnia and Herzegovina"
+msgstr "البوسنة و الهرسك"
+
+#: ../page-application-form.php:340
+msgid "Botswana"
+msgstr "بوتسوانا"
+
+#: ../page-application-form.php:341
+msgid "Brazil"
+msgstr "البرازيل"
+
+#: ../page-application-form.php:342
+msgid "British Indian Ocean Territory"
+msgstr "إقليم المحيط الهندي البريطاني"
+
+#: ../page-application-form.php:343
+msgid "Brunei Darussalam"
+msgstr "بروني"
+
+#: ../page-application-form.php:344
+msgid "Bulgaria"
+msgstr "بلغاريا"
+
+#: ../page-application-form.php:345
+msgid "Burkina Faso"
+msgstr "بوركينا فاسو"
+
+#: ../page-application-form.php:346
+msgid "Burundi"
+msgstr "بوروندي"
+
+#: ../page-application-form.php:347
+msgid "Cambodia"
+msgstr "كمبوديا"
+
+#: ../page-application-form.php:348
+msgid "Cameroon"
+msgstr "كاميرون"
+
+#: ../page-application-form.php:349
+msgid "Canada"
+msgstr "كندا"
+
+#: ../page-application-form.php:350
+msgid "Cape Verde"
+msgstr "الرأس الأخضر"
+
+#: ../page-application-form.php:351
+msgid "Central African Republic"
+msgstr "جمهورية أفريقيا الوسطى"
+
+#: ../page-application-form.php:352
+msgid "Chad"
+msgstr "تشاد"
+
+#: ../page-application-form.php:353
+msgid "Chile"
+msgstr "شيلي"
+
+#: ../page-application-form.php:354
+msgid "China"
+msgstr "جمهورية الصين الشعبية"
+
+#: ../page-application-form.php:355
+msgid "Colombia"
+msgstr "كولومبيا"
+
+#: ../page-application-form.php:356
+msgid "Comoros"
+msgstr "جزر القمر"
+
+#: ../page-application-form.php:357
+msgid "Congo"
+msgstr "جمهورية الكونغو"
+
+#: ../page-application-form.php:358
+msgid "Congo, The Democratic Republic of the"
+msgstr "جمهورية الكونغو الديمقراطية"
+
+#: ../page-application-form.php:359
+msgid "Cook Islands"
+msgstr "جزر كوك"
+
+#: ../page-application-form.php:360
+msgid "Costa Rica"
+msgstr "كوستاريكا"
+
+#: ../page-application-form.php:361
+msgid "Cote d'Ivoire"
+msgstr "ساحل العاج"
+
+#: ../page-application-form.php:362
+msgid "Croatia"
+msgstr "كرواتيا"
+
+#: ../page-application-form.php:363
+msgid "Cuba"
+msgstr "كوبا"
+
+#: ../page-application-form.php:364
+msgid "Cyprus"
+msgstr "قبرص"
+
+#: ../page-application-form.php:365
+msgid "Czech Republic"
+msgstr "الجمهورية التشيكية"
+
+#: ../page-application-form.php:366
+msgid "Denmark"
+msgstr "الدانمارك"
+
+#: ../page-application-form.php:367
+msgid "Djibouti"
+msgstr "جيبوتي"
+
+#: ../page-application-form.php:368
+msgid "Dominica"
+msgstr "دومينيكا"
+
+#: ../page-application-form.php:369
+msgid "Dominican Republic"
+msgstr "الجمهورية الدومينيكية"
+
+#: ../page-application-form.php:370
+msgid "Ecuador"
+msgstr "إكوادور"
+
+#: ../page-application-form.php:372
+msgid "El Salvador"
+msgstr "إلسلفادور"
+
+#: ../page-application-form.php:373
+msgid "Equatorial Guinea"
+msgstr "غينيا الاستوائي"
+
+#: ../page-application-form.php:374
+msgid "Eritrea"
+msgstr "إريتريا"
+
+#: ../page-application-form.php:375
+msgid "Estonia"
+msgstr "استونيا"
+
+#: ../page-application-form.php:376
+msgid "Ethiopia"
+msgstr "أثيوبيا\t"
+
+#: ../page-application-form.php:377
+msgid "Faroe Islands"
+msgstr "جزر فارو"
+
+#: ../page-application-form.php:378
+msgid "Fiji"
+msgstr "فيجي"
+
+#: ../page-application-form.php:379
+msgid "Finland"
+msgstr "فنلندا"
+
+#: ../page-application-form.php:380
+msgid "France"
+msgstr "فرنسا"
+
+#: ../page-application-form.php:381
+msgid "French Guiana"
+msgstr "غويانا الفرنسية"
+
+#: ../page-application-form.php:382
+msgid "French Polynesia"
+msgstr "بولينيزيا الفرنسية"
+
+#: ../page-application-form.php:383
+msgid "French Southern Territories"
+msgstr "الأراضي الفرنسية الجنوبية"
+
+#: ../page-application-form.php:384
+msgid "Gabon"
+msgstr "الغابون"
+
+#: ../page-application-form.php:385
+msgid "Gambia"
+msgstr "غامبيا"
+
+#: ../page-application-form.php:386
+msgid "Georgia"
+msgstr "جيورجيا"
+
+#: ../page-application-form.php:387
+msgid "Germany"
+msgstr "ألمانيا"
+
+#: ../page-application-form.php:388
+msgid "Ghana"
+msgstr "غانا"
+
+#: ../page-application-form.php:389
+msgid "Gibraltar"
+msgstr "جبل طارق"
+
+#: ../page-application-form.php:390
+msgid "Greece"
+msgstr "اليونان"
+
+#: ../page-application-form.php:391
+msgid "Greenland"
+msgstr "جرينلاند"
+
+#: ../page-application-form.php:392
+msgid "Grenada"
+msgstr "غرينادا"
+
+#: ../page-application-form.php:393
+msgid "Guadeloupe"
+msgstr "جزر جوادلوب"
+
+#: ../page-application-form.php:394
+msgid "Guam"
+msgstr "جوام"
+
+#: ../page-application-form.php:395
+msgid "Guatemala"
+msgstr "غواتيمال"
+
+#: ../page-application-form.php:396
+msgid "Guernsey"
+msgstr "غيرنسي"
+
+#: ../page-application-form.php:397
+msgid "Guinea"
+msgstr "غينيا"
+
+#: ../page-application-form.php:398
+msgid "Guinea-Bissau"
+msgstr "غينيا-بيساو"
+
+#: ../page-application-form.php:399
+msgid "Guyana"
+msgstr "غيانا"
+
+#: ../page-application-form.php:400
+msgid "Haiti"
+msgstr "هايتي"
+
+#: ../page-application-form.php:401
+msgid "Heard Island and McDonald Islands"
+msgstr "جزيرة هيرد وجزر ماكدونالد"
+
+#: ../page-application-form.php:402
+msgid "Holy See (Vatican City State)"
+msgstr "الكرسي الرسولي (دولة الفاتيكان)"
+
+#: ../page-application-form.php:403
+msgid "Honduras"
+msgstr "هندوراس"
+
+#: ../page-application-form.php:404
+msgid "Hong Kong"
+msgstr "هونغ كونغ"
+
+#: ../page-application-form.php:405
+msgid "Hungary"
+msgstr "المجر"
+
+#: ../page-application-form.php:406
+msgid "Iceland"
+msgstr "آيسلندا"
+
+#: ../page-application-form.php:407
+msgid "India"
+msgstr "الهند"
+
+#: ../page-application-form.php:408
+msgid "Indonesia"
+msgstr "أندونيسيا"
+
+#: ../page-application-form.php:409
+msgid "Iran, Islamic Republic of"
+msgstr "إيران"
+
+#: ../page-application-form.php:410
+msgid "Iraq"
+msgstr "العراق"
+
+#: ../page-application-form.php:411
+msgid "Ireland"
+msgstr "إيرلندا"
+
+#: ../page-application-form.php:412
+msgid "Isle of Man"
+msgstr "جزيرة مان"
+
+#: ../page-application-form.php:413
+msgid "Israel"
+msgstr "إسرائيل"
+
+#: ../page-application-form.php:414
+msgid "Italy"
+msgstr "إيطاليا"
+
+#: ../page-application-form.php:415
+msgid "Jamaica"
+msgstr "جمايكا"
+
+#: ../page-application-form.php:416
+msgid "Japan"
+msgstr "اليابان"
+
+#: ../page-application-form.php:417
+msgid "Jersey"
+msgstr "جيرسي"
+
+#: ../page-application-form.php:418
+msgid "Jordan"
+msgstr "الأردن"
+
+#: ../page-application-form.php:419
+msgid "Kazakhstan"
+msgstr "كازاخستان"
+
+#: ../page-application-form.php:420
+msgid "Kenya"
+msgstr "كينيا"
+
+#: ../page-application-form.php:421
+msgid "Kiribati"
+msgstr "كيريباتي"
+
+#: ../page-application-form.php:422
+msgid "Korea, Democratic People's Republic of"
+msgstr "كوريا الشمالية"
+
+#: ../page-application-form.php:423
+msgid "Korea, Republic of"
+msgstr "كوريا الجنوبية"
+
+#: ../page-application-form.php:424
+msgid "Kuwait"
+msgstr "الكويت"
+
+#: ../page-application-form.php:425
+msgid "Kyrgyzstan"
+msgstr "قيرغيزستان"
+
+#: ../page-application-form.php:426
+msgid "Lao People's Democratic Republic"
+msgstr "لاوس"
+
+#: ../page-application-form.php:427
+msgid "Latvia"
+msgstr "لاتفيا"
+
+#: ../page-application-form.php:428
+msgid "Lebanon"
+msgstr "لبنان"
+
+#: ../page-application-form.php:429
+msgid "Lesotho"
+msgstr "ليسوتو"
+
+#: ../page-application-form.php:430
+msgid "Liberia"
+msgstr "ليبيريا"
+
+#: ../page-application-form.php:431
+msgid "Libyan Arab Jamahiriya"
+msgstr "ليبيا"
+
+#: ../page-application-form.php:432
+msgid "Liechtenstein"
+msgstr "ليختنشتين"
+
+#: ../page-application-form.php:433
+msgid "Lithuania"
+msgstr "لتوانيا"
+
+#: ../page-application-form.php:434
+msgid "Luxembourg"
+msgstr "لوكسمبورغ"
+
+#: ../page-application-form.php:435
+msgid "Macao"
+msgstr "ماكاو"
+
+#: ../page-application-form.php:436
+msgid "Macedonia, The Former Yugoslav Republic of"
+msgstr "مقدونيا"
+
+#: ../page-application-form.php:437
+msgid "Madagascar"
+msgstr "مدغشقر"
+
+#: ../page-application-form.php:438
+msgid "Malawi"
+msgstr "مالاوي"
+
+#: ../page-application-form.php:439
+msgid "Malaysia"
+msgstr "ماليزيا"
+
+#: ../page-application-form.php:440
+msgid "Maldives"
+msgstr "المالديف"
+
+#: ../page-application-form.php:441
+msgid "Mali"
+msgstr "مالي"
+
+#: ../page-application-form.php:442
+msgid "Malta"
+msgstr "مالطا"
+
+#: ../page-application-form.php:443
+msgid "Marshall Islands"
+msgstr "جزر مارشال"
+
+#: ../page-application-form.php:444
+msgid "Martinique"
+msgstr "مارتينيك"
+
+#: ../page-application-form.php:445
+msgid "Mauritania"
+msgstr "موريتانيا"
+
+#: ../page-application-form.php:446
+msgid "Mauritius"
+msgstr "موريشيوس "
+
+#: ../page-application-form.php:447
+msgid "Mayotte"
+msgstr "مايوت"
+
+#: ../page-application-form.php:448
+msgid "Mexico"
+msgstr "المكسيك"
+
+#: ../page-application-form.php:449
+msgid "Micronesia, Federated States of"
+msgstr "مايكرونيزيا"
+
+#: ../page-application-form.php:450
+msgid "Moldova"
+msgstr "مولدافيا"
+
+#: ../page-application-form.php:451
+msgid "Monaco"
+msgstr "موناكو"
+
+#: ../page-application-form.php:452
+msgid "Mongolia"
+msgstr "منغوليا"
+
+#: ../page-application-form.php:453
+msgid "Montenegro"
+msgstr "الجبل الأسو\t"
+
+#: ../page-application-form.php:454
+msgid "Montserrat"
+msgstr "مونتسيرات"
+
+#: ../page-application-form.php:455
+msgid "Morocco"
+msgstr "المغرب"
+
+#: ../page-application-form.php:456
+msgid "Mozambique"
+msgstr "موزمبيق"
+
+#: ../page-application-form.php:457
+msgid "Myanmar"
+msgstr "ميانمار"
+
+#: ../page-application-form.php:458
+msgid "Namibia"
+msgstr "ناميبيا"
+
+#: ../page-application-form.php:459
+msgid "Nauru"
+msgstr "نورو"
+
+#: ../page-application-form.php:460
+msgid "Nepal"
+msgstr "نيبال"
+
+#: ../page-application-form.php:461
+msgid "Netherlands"
+msgstr "هولندا"
+
+#: ../page-application-form.php:462
+msgid "Netherlands Antilles"
+msgstr "جزر الأنتيل الهولندي"
+
+#: ../page-application-form.php:463
+msgid "New Caledonia"
+msgstr "كاليدونيا الجديدة"
+
+#: ../page-application-form.php:464
+msgid "New Zealand"
+msgstr "نيوزيلندا"
+
+#: ../page-application-form.php:465
+msgid "Nicaragua"
+msgstr "نيكاراجوا"
+
+#: ../page-application-form.php:466
+msgid "Niger"
+msgstr "النيجر"
+
+#: ../page-application-form.php:467
+msgid "Nigeria"
+msgstr "نيجيريا"
+
+#: ../page-application-form.php:468
+msgid "Niue"
+msgstr "ني"
+
+#: ../page-application-form.php:469
+msgid "Norfolk Island"
+msgstr "جزيرة نورفولك"
+
+#: ../page-application-form.php:470
+msgid "Northern Mariana Islands"
+msgstr "جزر ماريانا الشمالية"
+
+#: ../page-application-form.php:471
+msgid "Norway"
+msgstr "النرويج"
+
+#: ../page-application-form.php:472
+msgid "Oman"
+msgstr "عُمان"
+
+#: ../page-application-form.php:473
+msgid "Pakistan"
+msgstr "باكستان"
+
+#: ../page-application-form.php:474
+msgid "Palau"
+msgstr "بالاو"
+
+#: ../page-application-form.php:475
+msgid "Palestinian Territory, Occupied"
+msgstr "فلسطين"
+
+#: ../page-application-form.php:476
+msgid "Panama"
+msgstr "بنما"
+
+#: ../page-application-form.php:477
+msgid "Papua New Guinea"
+msgstr "بابوا غينيا الجديدة"
+
+#: ../page-application-form.php:478
+msgid "Paraguay"
+msgstr "باراغواي"
+
+#: ../page-application-form.php:479
+msgid "Peru"
+msgstr "بيرو"
+
+#: ../page-application-form.php:480
+msgid "Philippines"
+msgstr "الفليبين"
+
+#: ../page-application-form.php:481
+msgid "Pitcairn"
+msgstr "بيتكيرن"
+
+#: ../page-application-form.php:482
+msgid "Poland"
+msgstr "بولونيا"
+
+#: ../page-application-form.php:483
+msgid "Portugal"
+msgstr "البرتغال"
+
+#: ../page-application-form.php:484
+msgid "Puerto Rico"
+msgstr "بورتو ريكو"
+
+#: ../page-application-form.php:485
+msgid "Qatar"
+msgstr " قطر"
+
+#: ../page-application-form.php:486
+msgid "R&#233;union"
+msgstr "ريونيون"
+
+#: ../page-application-form.php:487
+msgid "Romania"
+msgstr "رومانيا"
+
+#: ../page-application-form.php:488
+msgid "Russian Federation"
+msgstr "الاتحاد الروسي"
+
+#: ../page-application-form.php:489
+msgid "Rwanda"
+msgstr "رواندا"
+
+#: ../page-application-form.php:490
+msgid "Saint Barth&#233;lemy"
+msgstr "سانت بارتيليمي"
+
+#: ../page-application-form.php:491
+msgid "Saint Helena"
+msgstr "سانت هيلانة"
+
+#: ../page-application-form.php:492
+msgid "Saint Kitts and Nevis"
+msgstr "سانت كيتس ونيفس"
+
+#: ../page-application-form.php:493
+msgid "Saint Lucia"
+msgstr "سانت لوسيا"
+
+#: ../page-application-form.php:494
+msgid "Saint Martin"
+msgstr "سانت مارتن"
+
+#: ../page-application-form.php:495
+msgid "Saint Pierre and Miquelon"
+msgstr "سان بيار وميكلون"
+
+#: ../page-application-form.php:496
+msgid "Saint Vincent and the Grenadines"
+msgstr "سانت فنسنت وجزر غرينادين"
+
+#: ../page-application-form.php:497
+msgid "Samoa"
+msgstr "ساموا"
+
+#: ../page-application-form.php:498
+msgid "San Marino"
+msgstr "سان مارينو"
+
+#: ../page-application-form.php:499
+msgid "Sao Tome and Principe"
+msgstr "ساو تومي وبرينسيبي"
+
+#: ../page-application-form.php:500
+msgid "Saudi Arabia"
+msgstr "المملكة العربية السعودية"
+
+#: ../page-application-form.php:501
+msgid "Senegal"
+msgstr "السنغال"
+
+#: ../page-application-form.php:502
+msgid "Serbia"
+msgstr "صربيا"
+
+#: ../page-application-form.php:503
+msgid "Seychelles"
+msgstr "سيشيل"
+
+#: ../page-application-form.php:504
+msgid "Sierra Leone"
+msgstr "سيراليون"
+
+#: ../page-application-form.php:505
+msgid "Singapore"
+msgstr "سنغافورة"
+
+#: ../page-application-form.php:506
+msgid "Slovakia"
+msgstr "سلوفاكيا"
+
+#: ../page-application-form.php:507
+msgid "Slovenia"
+msgstr "سلوفينيا"
+
+#: ../page-application-form.php:508
+msgid "Solomon Islands"
+msgstr "جزر سليمان"
+
+#: ../page-application-form.php:509
+msgid "Somalia"
+msgstr "الصومال"
+
+#: ../page-application-form.php:510
+msgid "South Africa"
+msgstr "أفريقيا"
+
+#: ../page-application-form.php:511
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "جورجيا الجنوبية وجزر ساندويتش الجنوبية"
+
+#: ../page-application-form.php:512
+msgid "Spain"
+msgstr "إسبانيا"
+
+#: ../page-application-form.php:513
+msgid "Sri Lanka"
+msgstr "سريلانكا"
+
+#: ../page-application-form.php:514
+msgid "Sudan"
+msgstr "السودان"
+
+#: ../page-application-form.php:515
+msgid "Suriname"
+msgstr "سورينام"
+
+#: ../page-application-form.php:516
+msgid "Svalbard and Jan Mayen"
+msgstr "سفالبارد وجان مايان"
+
+#: ../page-application-form.php:517
+msgid "Swaziland"
+msgstr "سوازيلند"
+
+#: ../page-application-form.php:518
+msgid "Sweden"
+msgstr "السويد"
+
+#: ../page-application-form.php:519
+msgid "Switzerland"
+msgstr "سويسرا"
+
+#: ../page-application-form.php:520
+msgid "Syrian Arab Republic"
+msgstr "سوريا"
+
+#: ../page-application-form.php:521
+msgid "Taiwan, Province of China"
+msgstr "تايوان"
+
+#: ../page-application-form.php:522
+msgid "Tajikistan"
+msgstr "طاجيكستان"
+
+#: ../page-application-form.php:523
+msgid "Tanzania, United Republic of"
+msgstr "تنزانيا"
+
+#: ../page-application-form.php:524
+msgid "Thailand"
+msgstr "تايلندا"
+
+#: ../page-application-form.php:525
+msgid "Timor-Leste"
+msgstr "تيمور الشرقية"
+
+#: ../page-application-form.php:526
+msgid "Togo"
+msgstr "توغو"
+
+#: ../page-application-form.php:527
+msgid "Tokelau"
+msgstr "توكيلاو"
+
+#: ../page-application-form.php:528
+msgid "Tonga"
+msgstr "تونغا"
+
+#: ../page-application-form.php:529
+msgid "Trinidad and Tobago"
+msgstr "ترينيداد وتوباغو"
+
+#: ../page-application-form.php:530
+msgid "Tunisia"
+msgstr "تونس"
+
+#: ../page-application-form.php:531
+msgid "Turkey"
+msgstr "تركيا"
+
+#: ../page-application-form.php:532
+msgid "Turkmenistan"
+msgstr "تركمانستان"
+
+#: ../page-application-form.php:533
+msgid "Turks and Caicos Islands"
+msgstr "جزر تركس وكايكوس"
+
+#: ../page-application-form.php:534
+msgid "Tuvalu"
+msgstr "توفالو"
+
+#: ../page-application-form.php:535
+msgid "Uganda"
+msgstr "أوغندا"
+
+#: ../page-application-form.php:536
+msgid "Ukraine"
+msgstr "أوكرانيا"
+
+#: ../page-application-form.php:537
+msgid "United Arab Emirates"
+msgstr "الإمارات العربية المتحدة"
+
+#: ../page-application-form.php:538
+msgid "United Kingdom"
+msgstr "المملكة المتحدة"
+
+#: ../page-application-form.php:539
+msgid "United States"
+msgstr "الولايات المتحدة\t"
+
+#: ../page-application-form.php:540
+msgid "United States Minor Outlying Islands"
+msgstr " جزر الولايات المتحدة البعيدة الصغيرة"
+
+#: ../page-application-form.php:541
+msgid "Uruguay"
+msgstr "أورغواي"
+
+#: ../page-application-form.php:542
+msgid "Uzbekistan"
+msgstr "أوزباكستان"
+
+#: ../page-application-form.php:543
+msgid "Vanuatu"
+msgstr "فانواتو"
+
+#: ../page-application-form.php:544
+msgid "Venezuela"
+msgstr "فنزويلا"
+
+#: ../page-application-form.php:545
+msgid "Viet Nam"
+msgstr "فيتنام"
+
+#: ../page-application-form.php:546
+msgid "Virgin Islands, British"
+msgstr "الجزر العذراء البريطانية"
+
+#: ../page-application-form.php:547
+msgid "Virgin Islands, U.S."
+msgstr "الجزر العذراء الأمريكي"
+
+#: ../page-application-form.php:548
+msgid "Wallis and Futuna"
+msgstr "والس وفوتونا\t"
+
+#: ../page-application-form.php:549
+msgid "Western Sahara"
+msgstr "الصحراء الغربية"
+
+#: ../page-application-form.php:550
+msgid "Yemen"
+msgstr "اليمن"
+
+#: ../page-application-form.php:551
+msgid "Zambia"
+msgstr "زامبيا"
+
+#: ../page-application-form.php:552
+msgid "Zimbabwe"
+msgstr "زمبابوي"
+
+#: ../page-application-form.php:559
+msgid "City"
+msgstr "المدينة"
+
+#: ../page-application-form.php:564
+msgid "Mobile number"
+msgstr "رقم الهاتف المحمول"
+
+#: ../page-application-form.php:569
+msgid "Daytime contact number"
+msgstr "رقم الهاتف المناسب للاتصال بكم نهاراً "
+
+#: ../page-application-form.php:574
+msgid "Educational qualification"
+msgstr "المؤهلات العلمية"
+
+#: ../page-application-form.php:576 ../page-application-form.php:578
+msgid "Select educational qualification"
+msgstr "اختر المؤهل العلمي"
+
+#: ../page-application-form.php:579
+msgid "Doctoral degree"
+msgstr "شهادة دكتوراه"
+
+#: ../page-application-form.php:580
+msgid "Master degree"
+msgstr "شهادة ماجستير"
+
+#: ../page-application-form.php:581
+msgid "College / University diploma"
+msgstr "دبلوم من كلية/ جامعة"
+
+#: ../page-application-form.php:582
+msgid "Diploma / short course"
+msgstr "دبلوم / دورة قصيرة"
+
+#: ../page-application-form.php:583
+msgid "High school"
+msgstr "شهادة ثانوية"
+
+#: ../page-application-form.php:584
+msgid "Elementary school"
+msgstr "شهادة ابتدائية"
+
+#: ../page-application-form.php:591
+msgid "Years of experience"
+msgstr "سنوات الخبرة"
+
+#: ../page-application-form.php:593 ../page-application-form.php:595
+msgid "Select years of experience"
+msgstr "اختر عدد سنوات الخبرة"
+
+#: ../page-application-form.php:601
+msgid "more"
+msgstr "المزيد"
+
+#: ../page-application-form.php:611
+msgid "Upload area"
+msgstr "منطقة التحميل"
+
+#: ../page-application-form.php:613
+msgid "Resume"
+msgstr "سيرة ذاتية"
+
+#: ../page-application-form.php:614 ../page-application-form.php:625
+msgid "Choose file"
+msgstr "اختر ملفاً"
+
+#: ../page-application-form.php:624
+msgid "Letter of intent"
+msgstr "خطاب النوايا"
+
+#: ../page-application-form.php:636 ../page-contact-us.php:348
+#: ../page-request-press-office.php:107
+msgid "Submit"
+msgstr "قدم"
+
+#: ../page-contact-us.php:22
+msgid "There was an error please try again."
+msgstr "كان هنالك خطأ يرجى المحاولة مرة اخرى"
+
+#: ../page-contact-us.php:72
+msgid "Please enter your company name."
+msgstr "يرجى إدحال اسم شركتك."
+
+#: ../page-contact-us.php:76
+msgid "Please enter a valid company name."
+msgstr "يرجى إدخال اسم شركة ملائم."
+
+#: ../page-contact-us.php:81
+msgid "Please enter your email."
+msgstr "يرجى إدخال بريدك الإلكتروني."
+
+#: ../page-contact-us.php:85
+msgid "Please enter a valid email address."
+msgstr "يرجى إدخال بريد إلكتروني ملائم."
+
+#: ../page-contact-us.php:90
+msgid "Please enter your subject."
+msgstr "يرجى إدخال الموضوع."
+
+#: ../page-contact-us.php:94
+msgid "Please enter a valid subject."
+msgstr "يرجى إدخال موضوع ملائم."
+
+#: ../page-contact-us.php:99
+msgid "Please enter your message."
+msgstr "يرجى إدخال رسالتك."
+
+#: ../page-contact-us.php:103
+msgid "Please enter a valid message."
+msgstr "يرجى إدخال رسالة ملائمة."
+
+#: ../page-contact-us.php:250
+msgid " has contacted you."
+msgstr "اتصل بك."
+
+#: ../page-contact-us.php:300
+msgid "Contact us"
+msgstr "اتصل بنا"
+
+#: ../page-contact-us.php:303 ../modules/thank-you.php:8
+msgid "Thank You"
+msgstr "شكراً"
+
+#: ../page-contact-us.php:303 ../modules/thank-you.php:10
+msgid "Your request has been sent."
+msgstr "تم ارسال طلبك."
+
+#: ../page-contact-us.php:303 ../modules/thank-you.php:12
+msgid "A member of our team will be in touch shortly."
+msgstr "سيتصل بك أحد موظفينا في أقرب فرصة."
+
+#: ../page-contact-us.php:315 ../page-request-press-office.php:89
+msgid "Company"
+msgstr "الشركة"
+
+#: ../page-contact-us.php:319 ../modules/hotel.php:117
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: ../page-contact-us.php:323 ../sidebar-careers-search.php:72
+#: ../single-career-opportunities.php:57
+msgid "Department"
+msgstr "قسم"
+
+#: ../page-contact-us.php:328
+msgid "General"
+msgstr "عام"
+
+#: ../page-contact-us.php:330
+msgid "Media"
+msgstr "وظائف"
+
+#: ../page-contact-us.php:331
+msgid "Investment"
+msgstr "الاستثمارات"
+
+#: ../page-contact-us.php:338
+msgid "Message subject"
+msgstr "موضوع الرسالة"
+
+#: ../page-contact-us.php:342
+msgid "Enter your message"
+msgstr "يرجى إدخال رسالتك."
+
+#: ../page-contact-us.php:360
+msgid "Our Location"
+msgstr "موقعنا"
+
+#: ../page-contact-us.php:364 ../page-contact-us.php:388
+#: ../page-contact-us.php:391
+msgid "Telephone"
+msgstr "هاتف"
+
+#: ../page-contact-us.php:364 ../page-contact-us.php:392
+#: ../modules/hotel.php:116
+msgid "Fax"
+msgstr "الفاكس"
+
+#: ../page-contact-us.php:367 ../page-contact-us.php:384
+msgid "Download directions as a PDF"
+msgstr "تنزيل الاتجاهات"
+
+#: ../page-contact-us.php:375
+msgid "Address"
+msgstr "العنوان"
+
+#: ../page-contact-us.php:381
+msgid "Directions"
+msgstr "الاتجاهات"
+
+#: ../page-login-modal.php:73 ../page-request-press-office.php:76
+msgid "Request access to restricted areas."
+msgstr "طلب نفاذ إلى المناطق المحظورة"
+
+#: ../page-our-hotels.php:9 ../single-hotels.php:8
+msgid "By Region"
+msgstr "حسب المنطقة"
+
+#: ../page-our-hotels.php:14 ../single-hotels.php:13
+msgid "By Business Area"
+msgstr "حسب المنطقة التجارية "
+
+#: ../page-our-hotels.php:28 ../page-our-hotels.php:151 ../sidebar.php:216
+msgid "Owned"
+msgstr "منشآت نملكها"
+
+#: ../page-our-hotels.php:32 ../page-our-hotels.php:152 ../sidebar.php:217
+msgid "Operated"
+msgstr "مملوكة"
+
+#: ../page-our-hotels.php:36 ../sidebar.php:215
+msgid "Under Development"
+msgstr "قيد التطوير"
+
+#: ../page-our-hotels.php:44
+msgid ""
+"Katara Hospitality is also a major hotel and resort operator in its own "
+"right with its expanding business hotel brand, Merweb."
+msgstr ""
+"كاتارا للضيافة هو فندق رئيسي ومشغل منتجعات في حد ذاته ويقوم بتوسيع \"مروب\"، "
+"العرض الفندقي لرجال الأعمال."
+
+#: ../page-our-hotels.php:86 ../page-our-hotels.php:140
+#: ../sidebar-navi.php:257
+msgid "Middle East"
+msgstr "الشرق الأوسط"
+
+#: ../page-our-hotels.php:90 ../page-our-hotels.php:137
+#: ../sidebar-navi.php:269
+msgid "Europe"
+msgstr "أوروبا"
+
+#: ../page-our-hotels.php:94 ../page-our-hotels.php:139
+#: ../sidebar-navi.php:265
+msgid "Asia"
+msgstr "آسيا"
+
+#: ../page-our-hotels.php:98 ../page-our-hotels.php:138
+#: ../sidebar-navi.php:261
+msgid "Africa"
+msgstr "أفريقيا"
+
+#: ../page-our-hotels.php:149 ../sidebar.php:214
+msgid "View by business area"
+msgstr "العرض حسب مجال التخصص"
+
+#: ../page-our-hotels.php:150
+msgid "Under development"
+msgstr "قيد التطوير"
+
+#: ../page-request-press-office.php:94
+msgid "E-mail address"
+msgstr "البريد الإلكتروني"
+
+#: ../page-request-press-office.php:99
+msgid "Please let us know what you intend to use the assets for:"
+msgstr "يرجى إعلامنا بالغرض من استخدام الأصول:"
+
+#: ../page-tenders.php:7
+msgid "We are inspired"
+msgstr "فإننا نستلهم"
+
+#: ../page.php:14
+msgid "We are pioneers"
+msgstr "نحن الرواد"
+
+#: ../page.php:16
+msgid "We are only as good as our people"
+msgstr "نحن جيدون مثل شعبنا"
+
+#: ../search.php:45
+msgid "Search Results"
+msgstr "نتائج البحث"
+
+#: ../search.php:46
+msgid "Search Results for"
+msgstr "نتائج البحث عن"
+
+#: ../sidebar-careers-search.php:12
+msgid "Search Careers"
+msgstr "البحث عن وظائف"
+
+#: ../sidebar-careers-search.php:18
+msgid "Type of Employment"
+msgstr "نوع الوظيفة"
+
+#: ../sidebar-careers-search.php:45 ../single-career-opportunities.php:45
+msgid "Level"
+msgstr "مستوى"
+
+#: ../sidebar-careers-search.php:85
+msgid "Operation"
+msgstr "العمليات"
+
+#: ../sidebar-careers-search.php:88
+msgid "HR"
+msgstr "الموارد البشرية"
+
+#: ../sidebar-navi.php:50
+msgid "Date"
+msgstr "التاريخ"
+
+#: ../sidebar-navi.php:93
+msgid "Locations"
+msgstr "الأماكن"
+
+#: ../sidebar-navi.php:134
+msgid "Our History"
+msgstr "تاريخنا"
+
+#: ../sidebar-press-area-meta.php:3 ../sidebar.php:40 ../sidebar.php:188
+msgid "Press Area Login"
+msgstr "تسجيل الدخول إلى الركن الصحفي"
+
+#: ../sidebar-press-area-meta.php:5 ../sidebar.php:42 ../sidebar.php:190
+msgid ""
+"To access the secure press area and view or download press assets please log "
+"in below, or request access."
+msgstr ""
+"للنفاذ إلى الركن الصحفي الآمن، وعرض أو تنزيل المواد الصحافية، يرجى تسجيل "
+"الدخول أدناه، أو طلب النفاذ."
+
+#: ../sidebar-search.php:12
+msgid "Search Again"
+msgstr "ابحث مرة أخرى"
+
+#: ../sidebar-search.php:18
+msgid "Section"
+msgstr "القسم"
+
+#: ../sidebar-search.php:33 ../sidebar.php:92 ../sidebar.php:130
+#: ../modules/sidebar-about-business-area.php:45
+msgid "Press Office"
+msgstr "المكتب الإعلامي"
+
+#: ../sidebar.php:23 ../modules/sidebar-about-business-area.php:17
+msgid "Hotels"
+msgstr "الفنادق"
+
+#: ../sidebar.php:151 ../modules/sidebar-about-business-area.php:66
+msgid "No Press Releases"
+msgstr "لا توجد بيانات صحفية"
+
+#: ../sidebar.php:169
+msgid "Latest Press Releases With Assets"
+msgstr "أحدث البيانات الصحافية مع المواد الصحافية"
+
+#: ../single-career-opportunities.php:9
+msgid "Work with us"
+msgstr "اعمل معنا"
+
+#: ../single-career-opportunities.php:41
+msgid "Contract type"
+msgstr "نوع العقد"
+
+#: ../single-career-opportunities.php:49
+msgid "Job(s)"
+msgstr "الوظائف"
+
+#: ../single-career-opportunities.php:53
+msgid "Experience required"
+msgstr "الخبرة المطلوبة"
+
+#: ../single-career-opportunities.php:54
+msgid "years"
+msgstr "سنوات"
+
+#: ../single-career-opportunities.php:54
+msgid "year"
+msgstr "سنة"
+
+#: ../single-career-opportunities.php:61
+msgid "Working place"
+msgstr "مكان العمل"
+
+#: ../single-career-opportunities.php:65
+msgid "Job beginning on"
+msgstr "البدء في الوظيفة"
+
+#: ../single-career-opportunities.php:69
+msgid "Creation date"
+msgstr "تاريخ إنشاء الطلب"
+
+#: ../single-career-opportunities.php:74
+msgid "Apply now"
+msgstr "قدم طلب الآن"
+
+#: ../includes/admin/request-access/request-access-add.php:89
+msgid ""
+"Your request to access the Katara Press Area has been accepted please find "
+"your log in details below"
+msgstr ""
+"لقد تم قبول طلبك للوصول إلى منطقة الصحافة لكتارا للضيافة،سوف تجد تفاصيل "
+"تسجيل الدخول الخاصة بك أدناه./ "
+
+#: ../includes/admin/request-access/request-access-add.php:102
+msgid ""
+"Your request to access the Katara Careers Area has been accepted please find "
+"your login details below"
+msgstr ""
+"لقد تم قبول طلبك للوصول إلى منطقة المناقصات لكتارا للضيافة، سوف تجد تفاصيل "
+"تسجيل الدخول الخاصة بك أدناه."
+
+#: ../includes/admin/request-access/request-access-add.php:115
+msgid ""
+"Your request to access the Katara Tenders Area has been accepted please find "
+"your log in details below"
+msgstr ""
+"لقد تم قبول طلبك للوصول إلى منطقة الوظائف كتارا للضيافة، سوف تجد تفاصيل "
+"تسجيل الدخول الخاصة بك أدناه."
+
+#: ../modules/hotel-excerpt.php:4 ../modules/page-board-members.php:49
+#: ../modules/post-career.php:9 ../modules/post-press-office.php:8
+#: ../modules/post-tender.php:7
+msgid "Read More"
+msgstr "اقرأ المزيد"
+
+#: ../modules/hotel.php:83
+msgid "Overview"
+msgstr "نظرة عامة"
+
+#: ../modules/hotel.php:87
+msgid "Visit Website"
+msgstr "زر الموقع الإلكتروني"
+
+#: ../modules/hotel.php:114
+msgid "Phone"
+msgstr "الهاتف"
+
+#: ../modules/hotel.php:115
+msgid "Reservations"
+msgstr "العمليات"
+
+#: ../modules/hotel.php:118
+msgid "Sales"
+msgstr "قسم المبيعات"
+
+#: ../modules/hotel.php:119
+msgid "Sales Fax"
+msgstr "فاكس قسم المبيعات "
+
+#: ../modules/no-job-id.php:3
+msgid "No Job Selected"
+msgstr "لم يتم تحديد وظيفة"
+
+#: ../modules/no-job-id.php:4
+msgid "Please select a job."
+msgstr "يرجى اختيار وظيفة."
+
+#: ../modules/sidebar-about-business-area.php:26
+msgid "No Hotels"
+msgstr "لا توجد فنادق"
+
+#: ../modules/sidebar-about-us.php:19
+msgid "Business area"
+msgstr "مجال التخصص"
+
+#: ../modules/sidebar-about-us.php:21
+msgid "Areas"
+msgstr "المناطق"
+
+#: ../modules/thank-you.php:14
+msgid "Close"
+msgstr "أغلق"
+
+#: ../modules/widget-business-areas.php:21
+msgid "Business Areas"
+msgstr "مجال التخصص"
+
+#: ../modules/widget-press-assets.php:5
+msgid "Press Area"
+msgstr " مجال التخصص"
+
+#: ../modules/widget-press-assets.php:38
+msgid "Download asset pack"
+msgstr "تحميل حزمة الأصول"
+
+#: ../modules/widget-press-assets.php:42
+msgid "No assets have been attached to this press release."
+msgstr "لم تعلق أي مواد صحافية لهذا البيان الصحفي"
+
+#: ../modules/widget-press-assets.php:45
+msgid "To view and download associated press assets please either"
+msgstr "لعرض وتنزيل المواد الصحفية المرتبطة يرجى إما"
+
+#: ../modules/widget-press-assets.php:45
+msgid "log in"
+msgstr "تسجيل الدخول"
+
+#: ../modules/widget-press-assets.php:45
+msgid "or"
+msgstr "أو"
+
+#: ../modules/widget-press-assets.php:45
+msgid "request access"
+msgstr "طلب النفاذ"
+
+#: ../modules/widget-user-meta.php:1 ../modules/widget-user-meta.php:31
+msgid "Log Out"
+msgstr "تسجيل الخروج"
+
+#: ../modules/widget-user-meta.php:23
+msgid "View Press Area"
+msgstr "العرض حسب مجال التخصص"
+
+#: ../modules/widget-user-meta.php:27
+msgid "You are currently logged in as:"
+msgstr "أنت مسجل حالياً باسم:"
+
+#, fuzzy
+#~ msgid "Katara Hospitality Building"
+#~ msgstr "كتارا للضيافة"
+
+#~ msgid "Job Title"
+#~ msgstr "المسمى الوظيفي"
+
+#~ msgid "Tender Document"
+#~ msgstr "وثيقة المناقصة"
+
+#~ msgid "Choose file to upload"
+#~ msgstr "اختر ملفاً لتحميله"
+
+#~ msgid "Please let us know why you require access to the secure tenders"
+#~ msgstr "يرجى إعلامنا بالغرض من حصولك على حق النفاذ إلى المناقصات الآمنة"
+
+#~ msgid "Careers Log in"
+#~ msgstr "تسجيل الدخول إلى صفحة الوظائف"
+
+#~ msgid ""
+#~ "To access the secure careers area, please log in below, or request access."
+#~ msgstr ""
+#~ "للنفاذ إلى صفحات الوظائف الشاغرة، يرجى تسجيل الدخول أدناه أو طلب حق النفاذ"
+
+#~ msgid "Restricted Tenders Login"
+#~ msgstr "تسجيل دخول محدود إلى المناقصات"
+
+#~ msgid ""
+#~ "To access the secure tenders area and view or download press assets "
+#~ "please log in below, or request access."
+#~ msgstr ""
+#~ "للنفاذ إلى صفحات المناقصات الآمنة، أو عرض أو تنزيل مواد صحفية، يرجى تسجيل "
+#~ "الدخول أدناه أو طلب النفاذ."
+
+#~ msgid "You need to be registered to view this vacancy."
+#~ msgstr "يجب التسجيل للاطلاع على الوظائف الشاغرة"
+
+#~ msgid "You need to be registered to view this tender."
+#~ msgstr "يجب التسجيل للاطلاع على المناقصات"
+
+#~ msgid "Doha"
+#~ msgstr "الدوحة"
+
+#~ msgid "You need to upload a file"
+#~ msgstr "لديك تحميل ملف"
+
+#~ msgid "Please select"
+#~ msgstr "يرجى اختيار"
+
+#~ msgid ""
+#~ "Katara Hospitality takes great pride in the high quality of its people. "
+#~ "They are, after all, the backbone of our operation and without constantly "
+#~ "striving for impeccably high standards we wouldn't have such an enviable "
+#~ "reputation. To further this aim we have a rigorous program of talent "
+#~ "development in place. If you have the energy and ambition to work for one "
+#~ "of the region's premier organisations, and in doing so further develop "
+#~ "your talent, please send your resume with a covering letter to the "
+#~ "address below."
+#~ msgstr ""
+#~ "تشعر كتارا للضيافة بعظيم الفخر والاعتزاز بالسويّة العالية لكوادرها "
+#~ "وموظفيها. فهم، بعد كل شيء، العمود الفقري لعملياتنا، ولن نحظى بمثل هذا "
+#~ "السمعة العطرة التي نحسد عليها من دون المواظبة على الارتقاء إلى معايير "
+#~ "عالية لم يسبقنا إليها أحد. وللمضي قدماً نحو هذا الهدف، نتّبع برنامجاً صارماً "
+#~ "لتنمية المواهب. فإذا كان لديك الطاقة والطموح للعمل في واحدة من الشركات "
+#~ "الرائدة الأولى في المنطقة، وبالتالي لتطوير موهبتك، الرجاء إرسال سيرتك "
+#~ "الذاتية مرفقة برسالة توضيحية على العنوان المبيّن أدناه."
+
+#~ msgid "Welcome"
+#~ msgstr "مرحبا بكم"
+
+#~ msgid "We are the past<br/>but we are everything thats next"
+#~ msgstr "نحن الماضي <br/> لكننا كلّ ما يليه"
+
+#~ msgid ""
+#~ "As Qatar's leading hospitality organization, we are well practiced in "
+#~ "welcoming guests to our luxury hotels and resorts. It gives us equal "
+#~ "pleasure to welcome you to our newly updated website. We hope you enjoy "
+#~ "reading about our proud heritage and our aspirations for the future."
+#~ msgstr ""
+#~ "فإننا نجيد الترحيب بضيوفنا ونزلائنا في جميع فنادقنا الفاخرة ومنتجعاتنا "
+#~ "الفخمة. ويسرّنا أيضاً أن نرحب بكم الترحيب ذاته في موقعنا الإلكتروني الذي تم "
+#~ "تحديثه مؤخراً. نأمل لكم الاستمتاع بطيب القراءة عن تراثنا المفعم بالفخر، "
+#~ "وعن تطلعاتنا للمستقبل."
+
+#~ msgid ""
+#~ "Katara Hospitality, previously known as Qatar National Hotels, is a "
+#~ "hospitality owner, manager and developer, aiming to become one of the "
+#~ "leading hospitality organisations in the world. Our journey has seen us "
+#~ "grow steadily at home, then expand across the world, spreading our "
+#~ "passion for impeccable standards of service and luxury to the Far East, "
+#~ "Africa and throughout Europe. We partner with some of the world's finest "
+#~ "hotel brands including The Ritz-Carlton, Sheraton, Raffles, Marriott, "
+#~ "M&#246;venpick and The B&#252;rgenstock Selection, while we are also "
+#~ "developing our own, home-grown Merweb business hotel brand."
+#~ msgstr ""
+#~ "كتارا للضيافة، التي كانت تعرف سابقاً باسم شركة قطر الوطنية للفنادق، تمتلك "
+#~ "وتدير وتطوّر محفظة قلّ نظيرها من الفنادق والمنتجعات الفاخرة عالمياً، في إطار "
+#~ "سعيها إلى تبوّء مكانتها المرموقة ضمن روّاد مؤسسات الضيافة في العالم. وقد "
+#~ "شهدت مسيرتنا نمّواً مضطرداً محلياً، توسعنا بعدها في جميع أنحاء العالم، فنشرنا "
+#~ "حماستنا وشغفنا بتقديم أعلى معايير الخدمة والرفاهية، ووصلنا بها إلى الشرق "
+#~ "الأقصى وأفريقيا وجميع أنحاء أوروبا. كما أقمنا شراكات مع بعض من أرقى "
+#~ "العلامات الفندقية في العالم تضم الريتز-كارلتون، وشيراتون، ورافلز، "
+#~ "وماريوت، وموفنبيك، ومجموعة  بيرجنستوك ، فيما نعمل محلياً على تطوير علامتنا "
+#~ "التجارية الفندقية الخاصة \"مروب\"."
+
+#~ msgid ""
+#~ "We have created a rich portfolio of properties, partnering with some of "
+#~ "the best brands in the hotel industry. We are proud of our role in "
+#~ "bringing them to Qatar and determined to further expand our international "
+#~ "portfolio."
+#~ msgstr ""
+#~ "انشأنا محفظة أصول غنية، وعقدنا شراكات مع بعض أفضل العلامات التجارية في "
+#~ "قطاع الفنادق. نحن فخورون بالدور الذي اضطلعنا به في استقدامهم إلى قطر، "
+#~ "وعازمون على مواصلة توسيع محفظتنا الاستثمارية الدولية."
+
+#~ msgid "Katara Contact Form"
+#~ msgstr "نموذج الاتصال بكتارا"
+
+#, fuzzy
+#~ msgid "Press Assets"
+#~ msgstr "بيان صحفي"
+
+#~ msgid "Pages:"
+#~ msgstr "الصفحات:"
+
+#~ msgid "Company Profile"
+#~ msgstr "نبذة عن الشركة"
+
+#~ msgid "Wordmark"
+#~ msgstr "الشعار"
+
+#~ msgid "English logo kit (Vertical)"
+#~ msgstr " عدة الشعار الإنجليزية (عمودي)"
+
+#~ msgid "English logo kit (Horizontal)"
+#~ msgstr " عدة الشعار الإنجليزية  (أفقي)"
+
+#~ msgid "Arabic logo kit (Vertical)"
+#~ msgstr " عدة الشعار العربية (عمودي)"
+
+#~ msgid "Arabic logo kit (Horizontal)"
+#~ msgstr " عدة الشعار العربية  (أفقي)"
+
+#~ msgid "Logos"
+#~ msgstr "توغو"
+
+#~ msgid "Assets"
+#~ msgstr "المواد الصحافية"
+
+#~ msgid "Our Values"
+#~ msgstr "قيمنا"
+
+#~ msgid "Knowledge"
+#~ msgstr "المعرفة"
+
+#~ msgid "Partnership"
+#~ msgstr "الشراكة"
+
+#~ msgid "Diligence"
+#~ msgstr "الاجتهاد"
+
+#~ msgid "Entrepreneurship"
+#~ msgstr "روح المبادرة"
+
+#~ msgid "Nurturing prosperity"
+#~ msgstr "تعزيز الازدهار"
+
+#~ msgid "People focus"
+#~ msgstr "التركيز على العنصر البشري"
+
+#~ msgid "Sustainability"
+#~ msgstr "الاستدامة"
+
+#, fuzzy
+#~ msgid "Location: "
+#~ msgstr "المكان"
+
+#~ msgid "Studies level required"
+#~ msgstr "مستويات التعليم المطلوبة"
+
+#~ msgid ""
+#~ "Katara Hospitality, previously known as Qatar National Hotels, is a "
+#~ "hospitality owner, manager and developer, aiming to become one of the "
+#~ "leading hospitality organisations in the world."
+#~ msgstr ""
+#~ "كتارا للضيافة، التي كانت تعرف سابقاً باسم شركة قطر الوطنية للفنادق، تمتلك "
+#~ "وتدير وتطوّر محفظة قلّ نظيرها من الفنادق والمنتجعات الفاخرة عالمياً، في إطار "
+#~ "سعيها إلى تبوّء مكانتها المرموقة ضمن روّاد مؤسسات الضيافة في العالم. وقد "
+#~ "شهدت مسيرتنا نمّواً مضطرداً محلياً، توسعنا بعدها في جميع أنحاء العالم، فنشرنا "
+#~ "حماستنا وشغفنا بتقديم أعلى معايير الخدمة والرفاهية، ووصلنا بها إلى الشرق "
+#~ "الأقصى وأفريقيا وجميع أنحاء أوروبا. كما أقمنا شراكات مع بعض من أرقى "
+#~ "العلامات الفندقية في العالم تضم الريتز-كارلتون، وشيراتون، ورافلز، "
+#~ "وماريوت، وموفنبيك، ومجموعة  بيرجنستوك ، فيما نعمل محلياً على تطوير علامتنا "
+#~ "التجارية الفندقية الخاصة \"مروب\"."
+
+#~ msgid "Page %s"
+#~ msgstr "صفحة٪ S"
+
+#~ msgid " - Category: "
+#~ msgstr "- الفئة:"
+
+#~ msgid " - Location: "
+#~ msgstr "- المكان:"
+
+#~ msgid "No Business Areas"
+#~ msgstr "لا يوجد مجال تخصص"
+
+#~ msgid "Press Office - Monthly Archives: "
+#~ msgstr "المكتب الإعلامي- الأرشيف الشهري:"
+
+#~ msgid "We are extending our reach and influence"
+#~ msgstr "نحن نوسع نطاق أعمالنا ونوطّد حضورنا"
+
+#~ msgid "We are approachable"
+#~ msgstr "نحن عنوان الترحاب"
+
+#~ msgid "Our Management"
+#~ msgstr "إدارتنا"
+
+#~ msgid "Our Board"
+#~ msgstr "مجلس إدارتنا"
+
+#~ msgid "Our Executives"
+#~ msgstr "مدراؤنا"
+
+#~ msgid "Corporate Social Responsibility"
+#~ msgstr "المسؤولية الاجتماعية "
+
+#~ msgid "Asset Management"
+#~ msgstr "إدارة الأصول"
+
+#~ msgid "Developer"
+#~ msgstr "مطور"
+
+#~ msgid "Operator"
+#~ msgstr "مشغل"
+
+#~ msgid "Apply for this position"
+#~ msgstr "تقدّم بطلب الحصول على هذه الوظيفة"
+
+#~ msgid "Our business area"
+#~ msgstr "مجال أعمالنا"
+
+#~ msgid "address"
+#~ msgstr "مجال أعمالنا"
+
+msgid "Tel"
+msgstr "الهاتف"
+
+msgid "address"
+msgstr "العنوان"
+
+msgid "telephone"
+msgstr "هاتف"
+
+msgid "directions"
+msgstr "الاتجاهات"
+
+msgid "Download directions"
+msgstr "تنزيل الاتجاهات"
+
+msgid "here"
+msgstr "هنا"
+
+msgid "as a PDF"
+msgstr "كملف بدف"
+
+msgid "Quick Links"
+msgstr "روابط سريعة"
+
+msgid "Get in touch"
+msgstr "ابقى على تواصل"
+
+msgid "HISTORY & FUTURE"
+msgstr "التاريخ والمستقبل"
+
+msgid "Press Room"
+msgstr "غرفة الصحافة"
+
+msgid "We are"
+msgstr "نحن"
+
+msgid "Dated"
+msgstr "بتاريخ"
+
+msgid "Month"
+msgstr "الشهور"
+
+msgid "Year"
+msgstr "سنوات"
+
+msgid "Europe"
+msgstr "أوروبا"
+
+msgid "Asia"
+msgstr "آسيا"
+
+msgid "Africa"
+msgstr "أفريقيا"
+
+msgid "show map"
+msgstr "عرض الخريطة"
+
+msgid "read all news"
+msgstr "قراءة كل الأخبار"
+
+msgid "see all partners"
+msgstr "راجع جميع الشركاء"
+
+msgid "View by Business Area"
+msgstr "عرض حسب منطقة الأعمال"
+
+msgid "Site by"
+msgstr "الموقع من قبل"
+
+msgid "Katara Hospitality. All rights reserved."
+msgstr "كاتارا للضيافة. كل الحقوق محفوظة."
+
+msgid "Our other hotels in "
+msgstr "لدينا فنادق أخرى في"
+
+msgid "No Results Found"
+msgstr "لا توجد نتائج"
+
+msgid "All"
+msgstr "الكل"
+
+msgid "News Room"
+msgstr "غرفة الأخبار"
+
+msgid "You are currently logged in as: "
+msgstr "لقد سجلت دخولك حاليا ك:"
+
+msgid "Logout"
+msgstr "الخروج"
+
+msgid "next"
+msgstr "التالى"
+
+msgid "prev"
+msgstr "سابق"
+
+msgid "Search Tenders"
+msgstr "بحث المناقصات"
+
+msgid "Category"
+msgstr "الفئة"
+
+msgid "Locations"
+msgstr "مواقع"
+
+msgid "Go"
+msgstr "اذهب"
+
+msgid "All"
+msgstr "الكل"
+
+msgid "send"
+msgstr "إرسال"
+
+msgid "visit website"
+msgstr "زيارة الموقع"
+
+msgid "search..."
+msgstr "بحث..."
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
